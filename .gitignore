@@ -1,0 +1,13 @@
+# Cargo build outputs
+/target/
+
+# Editor and environment files
+*.swp
+*.swo
+*~
+.env
+.env.*
+
+# Local runtime files must never be committed
+/wineprefixes/
+/logs/
